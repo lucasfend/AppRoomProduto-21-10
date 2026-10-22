@@ -3,7 +3,7 @@
 **Aluno:**
 - Lucas Ribeiro, RA 247165
 
-**Disciplina:** Programação para Dispositivos Móveis  
+**Disciplina:** Desenvolvimento de Dispositivos Móveis  
 **Professor(a):** ALESSANDRO FERREIRA
 
 ## Sobre o projeto
