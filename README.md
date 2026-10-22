@@ -1,10 +1,10 @@
-# AppRoomProduto: Cadastro de Produtos com Room SQLite
+w# AppRoomProduto: Cadastro de Produtos com Room SQLite
 
 **Aluno:**
 - Lucas Ribeiro, RA 247165
 
 **Disciplina:** Programação para Dispositivos Móveis  
-**Professor(a):** Nome do Professor
+**Professor(a):** ALESSANDRO FERREIRA
 
 ## Sobre o projeto
 
